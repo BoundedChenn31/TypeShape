@@ -21,6 +21,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\samples\TypeShape.Samples\TypeShape.Samples.fsproj" />
     <ProjectReference Include="..\..\src\TypeShape\TypeShape.fsproj" />
+    <ProjectReference Include="..\CSharpSourceGenSTJ\CSharpSourceGenSTJ.csproj" />
     <ProjectReference Include="..\TypeShape.Tests\TypeShape.Tests.fsproj" />
   </ItemGroup>
   <ItemGroup>
